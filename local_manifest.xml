@@ -4,7 +4,7 @@
   
 
   <!-- Device Trees -->
-  <project path="device/goole/crosshatch" name="device_google_bluecross.git" remote="Seraphine" revision="cherish-13" clone-depth="1" />
+  <project path="device/google/crosshatch" name="device_google_bluecross.git" remote="Seraphine" revision="cherish-13" clone-depth="1" />
   
   <!-- Kernel Trees-->
   <project path="kernel/google/crosshatch" name="kernel_google_bluecross.git" remote="Seraphine" revision="thirteen" clone-depth="1" />
