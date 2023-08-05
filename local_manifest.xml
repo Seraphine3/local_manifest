@@ -13,6 +13,6 @@
   <project path="vendor/google/crosshatch" name="vendor_google_crosshatch.git" remote="Seraphine" revision="tiramisu" clone-depth="1" />
 
   <!-- Hardware -->
-  <project path="hardware/google/qcom/sdm845/display" name="google_hardware_qcom_sdm845_display.git" remote="Seraphine" revision="lineage-20.0" clone-depth="1" />
-  <project path="hardware/google/qcom/sdm845/wlan" name="hardware_qcom_wlan.git" remote="Seraphine" revision="thirteen" clond-depth="1" />
+  <project path="hardware/qcom/sdm845/display" name="google_hardware_qcom_sdm845_display.git" remote="Seraphine" revision="lineage-20.0" clone-depth="1" />
+  <project path="hardware/qcom/sdm845/wlan" name="hardware_qcom_wlan.git" remote="Seraphine" revision="thirteen" clond-depth="1" />
 </manifest>
