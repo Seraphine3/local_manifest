@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote name="Seraphine" fetch="https://github.com/Seraphine3" />
-  
 
   <!-- Device Trees -->
-  <project path="device/google/crosshatch" name="device_google_bluecross.git" remote="Seraphine" revision="cherish-13" clone-depth="1" />
+  <project path="device/google/crosshatch" name="device_google_bluecross.git" remote="Seraphine" revision="rising-os" clone-depth="1" />
   
   <!-- Kernel Trees-->
   <project path="kernel/google/msm-4.9" name="kernel_google_bluecross.git" remote="Seraphine" revision="thirteen" clone-depth="1" />
