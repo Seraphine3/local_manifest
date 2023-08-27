@@ -10,5 +10,5 @@
   <project path="kernel/google/msm-4.9" name="kernel_google_bluecross.git" remote="Seraphine" revision="thirteen" clone-depth="1" />
 
   <!-- Vendor Trees -->
-  <project path="vendor/google/crosshatch" name="vendor_google_crosshatch.git" remote="Seraphine" revision="tiramisu" clone-depth="1" />
+  <project path="vendor/google/crosshatch" name="vendor_google_crosshatch_dormant.git" remote="Seraphine" revision="tiramisu" clone-depth="1" />
 </manifest>
